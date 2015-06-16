@@ -1,4 +1,4 @@
-months = Hash.new( "month" )
+bulan = Hash.new( "month" )
 
-puts "#{months[0]}"
-puts "#{months[72]}"
+puts "#{bulan[20]}"
+puts "#{bulan[50]}"
